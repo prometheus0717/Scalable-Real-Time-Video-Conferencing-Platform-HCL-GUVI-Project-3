@@ -55,5 +55,5 @@ Make sure you have the following installed before setting up the project:
 1. **Clone the repository**
 
    ```bash
-  git clone https://github.com/prometheus0717/Scalable-Real-Time-Video-Conferencing-Platform-HCL-GUVI-Project-3.git
+   https://github.com/prometheus0717/Scalable-Real-Time-Video-Conferencing-Platform-HCL-GUVI-Project-3.git
 
