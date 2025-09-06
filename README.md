@@ -1,8 +1,7 @@
 # Scalable-Real-Time-Video-Conferencing-Platform-Guvi-Project-3
 
-## GlideMeet
 
-GlideMeet is a scalable real-time video conferencing web application inspired by platforms like Google Meet. It enables smooth virtual meetings with features like video/audio calls, instant messaging, authentication, and screen sharing. This project focuses on scalability and reliability while providing a user-friendly experience.
+It is a scalable real-time video conferencing web application inspired by platforms like Google Meet. It enables smooth virtual meetings with features like video/audio calls, instant messaging, authentication, and screen sharing. This project focuses on scalability and reliability while providing a user-friendly experience.
 
 ---
 
@@ -34,6 +33,15 @@ GlideMeet is a scalable real-time video conferencing web application inspired by
 - **Axios** – API requests between client and server  
 - **CSS** – Styling and responsiveness  
 - **WebRTC** – Real-time video/audio streaming  
+
+---
+## Working Demo
+
+
+<img width="1355" height="717" alt="Screenshot 2025-08-18 005426" src="https://github.com/user-attachments/assets/b0990db9-f7da-44c5-a22a-74d88f81f19b" />
+
+
+https://github.com/user-attachments/assets/705485b1-b3ca-41bf-95c5-1dd89f829443
 
 ---
 
