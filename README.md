@@ -37,13 +37,10 @@ It is a scalable real-time video conferencing web application inspired by platfo
 ---
 ## Working Demo
 
+---<img width="1358" height="600" alt="Screenshot 2025-09-06 234811" src="https://github.com/user-attachments/assets/528dec76-32e1-4007-95fd-bb22d8a4263d" />
 
-<img width="1355" height="717" alt="Screenshot 2025-08-18 005426" src="https://github.com/user-attachments/assets/b0990db9-f7da-44c5-a22a-74d88f81f19b" />
+https://github.com/user-attachments/assets/3ee1dd21-8b89-411d-ac49-ae6ba6a4b6bb
 
-
-https://github.com/user-attachments/assets/705485b1-b3ca-41bf-95c5-1dd89f829443
-
----
 
 ## Installation
 
