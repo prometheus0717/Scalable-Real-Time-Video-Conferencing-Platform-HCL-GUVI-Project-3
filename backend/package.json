@@ -9,8 +9,8 @@
     "start": "node src/app.js",
     "prod": "pm2 src/app.js" 
   },
-  "author": "Harsh Kumar",
-  "license": "ISC",
+  "author": "D Kumar",
+  "license": "ISC", 
   "dependencies": {
     "bcrypt": "^5.1.1", 
     "cors": "^2.8.5",
