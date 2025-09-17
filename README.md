@@ -1,4 +1,4 @@
-# Scalable Real Time Video Conferencing Platform HCL GUVI Project 3
+# Scalable Real Time Video Conferencing Platform 
 
 
 It is a scalable real-time video conferencing web application inspired by platforms like Google Meet. It enables smooth virtual meetings with features like video/audio calls, instant messaging, authentication, and screen sharing. This project focuses on scalability and reliability while providing a user-friendly experience.
